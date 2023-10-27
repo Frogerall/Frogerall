@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML & CSS**
 
-- 📫 How to reach me? here's my email! **saliticoadrian@gmail.com**
+- 📫 How to reach me? -> **saliticoadrian@gmail.com**
 
 - ⚡ Fun fact **I hate eating vegetables 😭**
 
