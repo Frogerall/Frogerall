@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="350" height="350">
 <h3 align="center">A web developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> </p>
