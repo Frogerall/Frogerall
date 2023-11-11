@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h1 align="center">Hi, I'm Adrian</h1>
 
-<h3 align="center">A passionate Web developer from the Philippines.</h3>
+<h3 align="center">A passionate Web developer from the city of Bulacan in the Philippines.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> </p>
 
 <img align="right" alt="Coding" width="300" src="giphy.gif">
