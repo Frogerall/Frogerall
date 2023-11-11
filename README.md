@@ -7,9 +7,9 @@
 
 - 📚 I’m currently learning **JavaScript** & **PHP**
 
-- 📫 How to reach me? -> **saliticoadrian@gmail.com**
-
 - ⚡ Fun fact **I hate eating vegetables 😭**
+
+- 📫 How to reach me? -> **saliticoadrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
