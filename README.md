@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
-- 📚 I’m currently learning **JavaScript** & **PHP**.
+- 📚 I’m currently learning **JavaScript** & **PHP**
 
 - 📫 How to reach me? -> **saliticoadrian@gmail.com**
 
