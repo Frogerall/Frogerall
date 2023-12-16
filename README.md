@@ -66,6 +66,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>     
 </p>
 
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogerall&show_icons=true&locale=en&layout=compact" alt="frogerall" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frogerall&show_icons=true&locale=en" alt="frogerall" /></p>
