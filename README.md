@@ -1,7 +1,10 @@
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> 
+</p>
+
 <h1 align="center">Hi, I'm Adrian</h1>
 
 <h3 align="center">A web developer from the City of Bulacan in the Philippines.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> </p>
 
 <img align="right" alt="Coding" width="300" src="giphy.gif">
 
