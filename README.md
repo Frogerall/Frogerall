@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> 
 </p>
 
-<img align="right" alt="Coding" width="300" src="giphy.gif">
+<img align="right" alt="Coding" width="450" src="giphy.gif">
 
  📚 I’m currently learning **Vue 3** & **PHP Laravel**
 
