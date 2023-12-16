@@ -68,6 +68,6 @@
 
 <br/>
 
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=frogerall&show_icons=true&locale=en" alt="frogerall" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogerall&show_icons=true&locale=en&layout=compact" alt="frogerall" /></p>
+<p>&nbsp;<img align="left" height="150"  src="https://github-readme-stats.vercel.app/api?username=frogerall&show_icons=true&locale=en" alt="frogerall" /></p>
+<p><img align="center"  height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=frogerall&show_icons=true&locale=en&layout=compact" alt="frogerall" /></p>
 
