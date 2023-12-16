@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrian</h1>
 
-<h3 align="center">A passionate Web developer from the city of Bulacan in the Philippines.</h3>
+<h3 align="center">A web developer from the City of Bulacan in the Philippines.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frogerall&label=Profile%20views&color=0e75b6&style=flat" alt="frogerall" /> </p>
 
 <img align="right" alt="Coding" width="300" src="giphy.gif">
@@ -13,13 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <!-- LINKEDIN -->
-<a href="https://linkedin.com/in/nairda4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nairda4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nairda4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nairda4" height="30" width="40" /></a>
 <!-- FACEBOOK -->
-<a href="https://fb.com/nairda4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nairda4" height="30" width="40" /></a>
+<a href="https://fb.com/nairda4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nairda4" height="30" width="40" /></a>
 <!-- TWITTER -->
-<a href="https://twitter.com/saliticoadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saliticoadrian" height="30" width="40" /></a>
+<a href="https://twitter.com/saliticoadrian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saliticoadrian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages & Frameworks</h3>
