@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="300" src="giphy.gif">
 
-- 📚 I’m currently learning **Vue 3** & **PHP Laravel**
+ 📚 I’m currently learning **Vue 3** & **PHP Laravel**
 
-- ⚡ Fun fact **I hate eating vegetables 😭**
+ ⚡ Fun fact **I hate eating vegetables 😭**
 
-- 📫 How to reach me? -> **saliticoadrian@gmail.com**
+ 📫 How to reach me? -> **saliticoadrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
